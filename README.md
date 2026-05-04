@@ -54,7 +54,7 @@ Interactive & user-friendly design
 
 📸Screenshots / Demos
 Show what the dashboard looks like. Example:
-
+https://github.com/Nayan302005/Madhav-Ecommerce-Sales-Performance-Analysis/blob/main/Madhav%20Ecommerce%20Dashboard.png
 
 
 
