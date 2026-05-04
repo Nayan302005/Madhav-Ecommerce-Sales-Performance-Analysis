@@ -59,6 +59,4 @@ https://github.com/Nayan302005/Madhav-Ecommerce-Sales-Performance-Analysis/blob/
 
 
 
-Data Modeling & Relationships
-DAX (Data Analysis Expressions)
-Interactive Visualizations
+
